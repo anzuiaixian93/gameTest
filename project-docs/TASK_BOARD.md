@@ -32,6 +32,7 @@
 
 | 状态 | 负责人 | 任务 | 说明 |
 | --- | --- | --- | --- |
+| TODO | 美术朋友 + Codex | 主玩法效果图 | 先按 project-docs/EFFECT_REFERENCE_REQUEST.md 画主画面、刀下落、成功、失败、结算 |
 | TODO | 美术朋友 + Codex | 侠客猫造型设计 | 国风猫，主角识别度高 |
 | TODO | 美术朋友 + Codex | 武士造型设计 | 欠揍、搞笑、不讲武德 |
 | TODO | 美术朋友 + Codex | 猫咪基础动作 | idle、ready、success、fail |
@@ -58,3 +59,4 @@
 - 大量角色
 - 复杂剧情
 - 复杂在线排行榜
+
